@@ -3,4 +3,4 @@
 
 It is simply a front end web application made using HTML,CSS and Bootstrap.
 
-Can be accessed at : [https://amanagrawal5510.github.io/Dellmax-site/](url)
+Can be accessed at : [https://shubhitiwari1002.github.io/Dellmax/](url)
